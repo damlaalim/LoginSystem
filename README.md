@@ -1,5 +1,5 @@
 # Öğrenci ve Öğretim Görevlisi Giriş Sistemi
-Windows Forms ve Sql Server Management Studio ile yaptığım öğrenci ve öğretim görevlisi giriş sistemi (devam etmekte).
+Windows Forms ve Sql Server Management Studio ile yaptığım öğrenci ve öğretim görevlisi giriş sistemi.
 Kullanıcıların kaydını yönetici yapmaktadır. Kullanıcıların ilk şifrelerini alabilmeleri için kayıt olmaları gerekmektedir.
 # Uygulama İçi Görüntüler
 Giriş:<br>
